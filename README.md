@@ -2,9 +2,7 @@
 
 Probably it'd best to visit https://getjoe.dev
 
-Languages:
-
-<tt>C#</tt> • <tt>C</tt> • <tt>TypeScript</tt> • <tt>JavaScript</tt> • <tt>PHP</tt>
+Languages: <tt>PHP</tt> • <tt>JavaScript</tt>  • <tt>C#</tt> • <tt>C</tt> • <tt>TypeScript</tt>
 
 Frontend:
 <tt>React</tt> • <tt>Vue</tt> • <tt>Angular</tt> • <tt>Tailwind</tt>

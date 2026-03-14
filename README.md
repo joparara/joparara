@@ -1,6 +1,6 @@
 # Joe Palala
 
-Probably it'd best to visit https://getjoe.dev
+Please visit https://getjoe.dev
 
 Languages: <tt>PHP</tt> • <tt>JavaScript</tt>  • <tt>Java</tt> • <tt>C</tt> • <tt>TypeScript</tt>
 

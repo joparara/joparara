@@ -45,3 +45,9 @@ DevOps & Tools:
 • <tt>Arch Linux</tt> 
 • <tt>Vim</tt> 
 • <tt>Intellij</tt>
+
+---
+
+As an IT advocate, I like to build things that might serve practical use for junior devs learning to code. Here are some of my projects to help in thsi regard:
+
+[LearnTheShell](https://github.com/joparara/learntheshell) - focused on commmon commands used on a linux server
